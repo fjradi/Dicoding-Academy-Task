@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Indonesian Food</string>
+    <string name="profile">Profile</string>
+    <string name="my_name">Fajar Adi Nugroho</string>
+    <string name="my_email">fjradi96@gmail.com</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="detail">Detail</string>
+    <string name="food_origin">Asal</string>
+    <string name="food_name_">Lemper</string>
+    <string name="food_origin_">Solo</string>
+    <string name="detail_">Lorem Ipsum Bla Bla</string>
+</resources>
